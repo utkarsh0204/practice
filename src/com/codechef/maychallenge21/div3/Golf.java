@@ -26,5 +26,6 @@ public class Golf {
 			}
 		}
 		br.close();
+		System.out.println("done");
 	}
 }
